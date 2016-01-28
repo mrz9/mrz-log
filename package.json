@@ -1,0 +1,22 @@
+{
+  "name": "mrz-log",
+  "version": "0.0.1",
+  "description": "nodejs simple log",
+  "main": "log.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "author": {
+    "name": "MRZ",
+    "email": "1711231134@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrz9/mrz-log.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "file-stream-rotator": "0.0.6",
+    "moment": "^2.11.1"
+  }
+}
